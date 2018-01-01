@@ -7,11 +7,11 @@
 	branch = pinoccio
 [submodule "libraries/lwm"]
 	path = libraries/lwm
-	url = https://github.com/Pinoccio/library-atmel-lwm.git
+	url = https://github.com/aog2000a/library-atmel-lwm.git
 	branch = pinoccio
 [submodule "libraries/gainspan"]
 	path = libraries/gainspan
-	url = https://github.com/Pinoccio/library-gainspan-s2w.git
+	url = https://github.com/aog2000a/library-gainspan-s2w.git
 [submodule "libraries/pinoccio"]
 	path = libraries/pinoccio
-	url = https://github.com/Pinoccio/library-pinoccio.git
+	url = https://github.com/aog2000a/library-pinoccio.git
