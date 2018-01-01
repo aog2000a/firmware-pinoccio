@@ -1,6 +1,6 @@
 [submodule "hardware/pinoccio"]
 	path = hardware/pinoccio
-	url = https://github.com/Pinoccio/core-pinoccio.git
+	url = https://github.com/aog2000a/core-pinoccio.git
 [submodule "libraries/bitlash"]
 	path = libraries/bitlash
 	url = https://github.com/Pinoccio/library-bitlash.git
